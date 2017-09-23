@@ -13,7 +13,7 @@ namespace Test
         [Test]
         public void test()
         {
-            int a = 1;
+            int a = 2;
 
             Assert.That(a, Is.EqualTo(1));
         }
