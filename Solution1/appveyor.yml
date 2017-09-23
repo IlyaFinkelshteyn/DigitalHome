@@ -1,2 +1,2 @@
 before_build:
-  - nuget restore Solution1.sln
+  - nuget restore ../../../Solution1.sln
